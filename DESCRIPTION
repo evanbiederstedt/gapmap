@@ -1,0 +1,27 @@
+Package: gapmap
+Type: Package
+Title: Functions for Drawing Gapped Cluster Heatmap with ggplot2
+Version: 0.1.0
+Authors@R: c(person("Ryo", "Sakai", email="ryo@vda-lab.be", role="aut"), person("Evan", "Biederstedt", email="evan.biederstedt@gmail.com", role=c("cre", "aut")))
+Description: The gap encodes the distance between clusters and improves
+    interpretation of cluster heatmaps. The gaps can be of the same
+    distance based on a height threshold to cut the dendrogram. Another
+    option is to vary the size of gaps based on the distance between
+    clusters.
+License: GPL-2 | GPL-3
+Encoding: UTF-8
+Depends:
+    ggplot2,
+    reshape2
+Imports:
+    grid
+Suggests:
+    knitr,
+    dendsort,
+    RColorBrewer
+VignetteBuilder: knitr
+URL: https://github.com/evanbiederstedt/gapmap
+BugReports: https://github.com/evanbiederstedt/gapmap/issues
+RoxygenNote: 7.1.1
+NeedsCompilation: no
+Maintainer: Evan Biederstedt <evan.biederstedt@gmail.com>
