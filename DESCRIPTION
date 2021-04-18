@@ -18,7 +18,8 @@ Imports:
 Suggests:
     knitr,
     dendsort,
-    RColorBrewer
+    RColorBrewer, 
+    rmarkdown
 VignetteBuilder: knitr
 URL: https://github.com/evanbiederstedt/gapmap
 BugReports: https://github.com/evanbiederstedt/gapmap/issues

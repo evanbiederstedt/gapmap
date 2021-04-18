@@ -10,7 +10,6 @@
 #' @param col_labels a logical to show lables for columns
 #' @param rotate a logical to rotate row labels
 #' @param col colors used for heatmap
-#' @param ... ignored
 #' @export gap_heatmap
 #' @aliases gap_heatmap
 #' @return a ggplot object
