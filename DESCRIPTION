@@ -1,6 +1,5 @@
 Package: gapmap
-Type: Package
-Title: Functions for Drawing Gapped Cluster Heatmap with ggplot2
+Title: Drawing Gapped Cluster Heatmap with 'ggplot2'
 Version: 0.1.0
 Authors@R: c(person("Ryo", "Sakai", email="ryo@vda-lab.be", role="aut"), person("Evan", "Biederstedt", email="evan.biederstedt@gmail.com", role=c("cre", "aut")))
 Description: The gap encodes the distance between clusters and improves
