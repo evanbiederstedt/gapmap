@@ -108,7 +108,7 @@ gapmap(m = as.matrix(distxy), d_row= rev(dend), d_col=dend,  mode = "threshold",
 
 ![plot of chunk unnamed-chunk-7](figure_simple_example/unnamed-chunk-7-1.png)
 
-In addition, this package works well with our dendrogram sorting package, called `dendsort`. For the details on dendsort, please check our [paper](http://f1000research.com/articles/3-177/v1).
+In addition, this package works well with our dendrogram sorting package, called `dendsort`. For the details on dendsort, please check our [paper](https://f1000research.com/articles/3-177/v1/).
 
 
 ```r

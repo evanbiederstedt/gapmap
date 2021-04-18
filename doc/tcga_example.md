@@ -136,7 +136,7 @@ gapmap(m = as.matrix(dataTable), d_row = rev(row_d), d_col = col_d, mode = "quan
 ```
 
 ## dendsort ##
-This package works well with the **dendsort** package to reorder the structure of dendrograms. For further information for the **dendsort**, please see the [paper](http://f1000research.com/articles/3-177/v1).
+This package works well with the **dendsort** package to reorder the structure of dendrograms. For further information for the **dendsort**, please see the [paper](https://f1000research.com/articles/3-177/v1).
 
 
 ```r
