@@ -1,13 +1,13 @@
-<!--
-%\VignetteEngine{knitr::knitr}
-%\VignetteIndexEntry{An example with a TCGA dataset}
--->
-
 ---
-title: "tcga_example"
-author: "Ryo Sakai"
-date: "8 September 2014"
-output: html_document
+title: "Example with a TCGA dataset"
+date: 8 September 2014
+output: 
+  rmarkdown::html_vignette:
+    toc: true
+vignette: >
+  %\VignetteIndexEntry{"Example with a TCGA dataset"}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
 ---
 
 This is an R Markdown document, which demonstrates the use of **gapmap** and **dendsort** packages to generate a gapped cluster heatmap visualization.

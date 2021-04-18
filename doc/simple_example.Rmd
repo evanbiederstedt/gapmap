@@ -1,14 +1,15 @@
-<!--
-%\VignetteEngine{knitr::knitr}
-%\VignetteIndexEntry{An Introduction to the gapmap package}
--->
+---
+title: "An introduction to the gapmap package"
+date: 2 September 2014
+output: 
+  rmarkdown::html_vignette:
+    toc: true
+vignette: >
+  %\VignetteIndexEntry{"An introduction to the gapmap package"}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
 
----
-title: "gapmap"
-author: "Ryo Sakai"
-date: "2 September 2014"
-output: html_document
----
 This document explains basic functions of the `gapmap` package to draw a gapped cluster heatmap. The plot is generated using the `ggplot2` package.
 Let's load the library first.
 ```{r, message=FALSE}

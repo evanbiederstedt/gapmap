@@ -29,8 +29,6 @@ gap_heatmap(
 \item{rotate}{a logical to rotate row labels}
 
 \item{col}{colors used for heatmap}
-
-\item{...}{ignored}
 }
 \value{
 a ggplot object
