@@ -1,4 +1,7 @@
-[![Build Status](https://travis-ci.com/evanbiederstedt/gapmap.svg?branch=master)](https://travis-ci.com/github/evanbiederstedt/gapmap)
+[![Build Status](https://travis-ci.com/evanbiederstedt/gapmap.svg?branch=main)](https://travis-ci.com/github/evanbiederstedt/gapmap)
+[![CRAN status](https://www.r-pkg.org/badges/version/gapmap)](https://cran.r-project.org/package=gapmap)
+[![CRAN downloads](https://cranlogs.r-pkg.org/badges/gapmap)](https://cran.r-project.org/package=gapmap)
+
 
 # gapmap
 
