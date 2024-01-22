@@ -11,7 +11,7 @@ More information on this package can be found on CRAN [here](https://cran.r-proj
 
 This is a forked repo from gapmap version 0.0.3, which was removed from CRAN in 2020. The original sourcecode by the author Ryo Sakai can be found on Bitbucket [here](https://bitbucket.org/vda-lab/gapmap). 
 
-I simply fixed the error, and re-submitted to CRAN with version 0.1.0.
+I simply fixed the error, and re-submitted to CRAN.
 
 ### Vignettes
 

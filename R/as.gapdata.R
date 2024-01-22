@@ -5,7 +5,6 @@
 #' @param d dendrogram class object
 #' @param segments a data.frame containing segments information
 #' @param labels a data.frame containing labels information
-#' @param labels_df data.frame storking the label positions
 #' @param ... ignored
 #' @export as.gapdata
 #' @aliases as.gapdata
@@ -15,7 +14,7 @@
 
 #make a gapdata class
 as.gapdata <- function(d, segments, labels, ...){
-  x <- list(dendrogram = d, segments = segments, labels=labels)
+  x <- list(dendrogram = d, segments = segments, labels = labels)
   class(x) <- "gapdata"
   x
 }

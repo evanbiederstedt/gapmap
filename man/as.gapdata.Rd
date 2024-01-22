@@ -14,8 +14,6 @@ as.gapdata(d, segments, labels, ...)
 \item{labels}{a data.frame containing labels information}
 
 \item{...}{ignored}
-
-\item{labels_df}{data.frame storking the label positions}
 }
 \value{
 the gapdata class object
